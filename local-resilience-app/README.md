@@ -23,5 +23,34 @@
 * [\#resilience-newbackend](https://mutualaidworld.slack.com)
 * [\#resilience-uxresearch](https://mutualaidworld.slack.com)\*\*\*\*
 
-### **Website**
+### Standup Meetings
+
+#### Updates
+
+* What have I been working on for the last 24 hours?
+* What do I plan on working on for the next 24 hours?
+* Any blockers?
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Frequency</th>
+      <th style="text-align:left">Time</th>
+      <th style="text-align:left">Duration</th>
+      <th style="text-align:left">Zoom Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Daily</td>
+      <td style="text-align:left">
+        <p>10:00 AM EST</p>
+        <p>5:30 PM EST</p>
+      </td>
+      <td style="text-align:left">~ 20 minutes</td>
+      <td style="text-align:left"><a href="https://us04web.zoom.us/j/815495144">https://us04web.zoom.us/j/815495144</a>
+      </td>
+    </tr>
+  </tbody>
+</table>### **Website**
 
