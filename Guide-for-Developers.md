@@ -24,10 +24,6 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
    * #resilience-design
    * #project-management
 
-<b>Approvals</b> for work
-* <b>Skateboard</b> and <b>scooter stages</b>: Connect with the Collaborators on your task, and if you need more approval than that, throw something in slack.
-* <b>Bicycle</b> stage: @Linc is the product owner for sign-off.
-
 # Third. Here are some resources.
 * [Website](https://mutualaid.world/)
 * [Facebook group](https://www.facebook.com/groups/841884169612674/)
