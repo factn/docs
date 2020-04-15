@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Home](README.md)
-* [About MutualAid](about-mutualaid/README.md)
-  * [Local Resilience App](about-mutualaid/local-resilience-app/README.md)
-    * [Community Outreach](about-mutualaid/local-resilience-app/community-outreach.md)
-  * [SafeTrace API](about-mutualaid/safetrace-api.md)
-  * [Data Science](about-mutualaid/data-science.md)
+* [About MutualAid](README.md)
+* [Local Resilience App](local-resilience-app/README.md)
+  * [Community Outreach](local-resilience-app/community-outreach.md)
+* [SafeTrace API](safetrace-api.md)
+* [Data Science](data-science.md)
 * [Airtable](airtable.md)
 
 ## Developers
