@@ -54,3 +54,7 @@
   </tbody>
 </table>### **Website**
 
+{% embed url="https://mutualaid.world/" %}
+
+
+
