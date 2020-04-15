@@ -4,7 +4,7 @@
 * [Local Resilience App](local-resilience-app/README.md)
   * [Community Outreach](local-resilience-app/community-outreach.md)
 * [SafeTrace API](safetrace-api.md)
-* [PhoneAFriend](phoneafriend.md)
+* [Phone A Friend](phoneafriend.md)
 * [Data Science](data-science.md)
 * [Airtable](airtable.md)
 
