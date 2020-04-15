@@ -31,8 +31,8 @@
 
 ## MutualAid Projects
 
-* [Resilience App](https://github.com/factn/resilience-app)
-* [Resilience App Theme](https://github.com/factn/resilienceapp_theme)
-* [SafeTrace API](https://github.com/factn/safetraceapi)
-* [Phone A Friend](https://github.com/factn/phone-a-friend)
+* [Resilience App Github](https://github.com/factn/resilience-app)
+* [Resilience App Theme Github](https://github.com/factn/resilienceapp_theme)
+* [SafeTrace API Github](https://github.com/factn/safetraceapi)
+* [Phone A Friend Github](https://github.com/factn/phone-a-friend)
 
