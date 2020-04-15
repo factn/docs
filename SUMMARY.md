@@ -2,7 +2,9 @@
 
 * [Home](README.md)
 * [About MutualAid](about-mutualaid/README.md)
-  * [Local Resilience App](about-mutualaid/local-resilience-app.md)
+  * [Local Resilience App](about-mutualaid/local-resilience-app/README.md)
+    * [Community Outreach](about-mutualaid/local-resilience-app/community-outreach.md)
+  * [SafeTrace API](about-mutualaid/safetrace-api.md)
 * [Airtable](airtable.md)
 
 ## Developers
