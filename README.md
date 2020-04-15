@@ -10,7 +10,7 @@ We hope folks are staying safe and sane in the midst of this crisis. We’re so 
 
 ### Access
 
-{% page-ref page="airtable.md" %}
+{% page-ref page="project-management.md" %}
 
 For access to **Figma** direct message [**@Courtney Beadel**](https://app.slack.com/team/U010H1FTE8Z) on [Slack](https://bit.ly/join_mutualaid_slack) with your email address. 
 

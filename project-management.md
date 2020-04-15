@@ -2,9 +2,11 @@
 description: AirTable Boards and Workflows
 ---
 
-# Airtable
+# Project Management
 
 ## Getting Access
+
+We us [AirTable](https://airtable.com) for our kanban board and project management overview
 
 [Request access to our kanban board](https://airtable.com/tblRjd2McKgRW9MKj/viwlRRNI0PZIxrGkc?blocks=hide)
 
