@@ -10,7 +10,7 @@ MutualAid.World is a project to help local organizers serve their communities by
 
 {% page-ref page="airtable.md" %}
 
-For access to **Figma** direct message **@Courtney Beadel** on [Slack](https://bit.ly/join_mutualaid_slack) with your email address. 
+For access to **Figma** direct message [**@Courtney Beadel**](https://app.slack.com/team/U010H1FTE8Z) on [Slack](https://bit.ly/join_mutualaid_slack) with your email address. 
 
 ### Other MutualAid open-source that you can contribute to
 
