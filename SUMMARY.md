@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [About MutualAid](about-mutualaid.md)
 * [Airtable](airtable.md)
 
 ## Developers
