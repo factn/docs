@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
-* [About MutualAid](about-mutualaid.md)
+* [About MutualAid](about-mutualaid/README.md)
+  * [Local Resilience App](about-mutualaid/local-resilience-app.md)
 * [Airtable](airtable.md)
 
 ## Developers
