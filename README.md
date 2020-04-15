@@ -7,9 +7,9 @@ MutualAid.World is a project to help local organizers serve their communities by
 #### [View the staging site / demo](https://resilience-app.herokuapp.com) !
  
 # How to help ?
-- [Guide for Developers](/Guide-for-Developers)
-- [Guide for Designers](/Guide-for-Designers)
-    - Code merging stuff for devs [CONTRIBUTING.md](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md)
+- [Guide for Developers](Guide-for-Developers.md)
+- [Guide for Designers](Guide-for-Designers.md)
+- Code merging stuff for devs [CONTRIBUTING.md](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md)
 
 
 # Access
