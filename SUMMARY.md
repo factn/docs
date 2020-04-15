@@ -27,7 +27,6 @@
 * [Join our Slack](https://app.slack.com/client/T010BELED7Z)
 * [Facebook](https://www.facebook.com/groups/841884169612674/)
 * [CONTRIBUTING.md](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md)
-* [Intake Interview Questionnaire](https://airtable.com/shrAlCROMAob2bu2v)
 
 ## MutualAid Projects
 
