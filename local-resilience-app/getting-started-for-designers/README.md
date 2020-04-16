@@ -14,7 +14,7 @@ description: Getting started page for Designers
 
 ### Design Resources
 
-{% page-ref page="resources.md" %}
+{% page-ref page="resources/" %}
 
 
 
