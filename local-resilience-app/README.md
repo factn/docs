@@ -16,16 +16,16 @@
 * [@Paul Mendoza](https://app.slack.com/team/U011F9USMMF)
 * [@Terrence](https://app.slack.com/team/U010CLC1R6J)
 
-### **Product Owners**
-
-* [@Miles](https://mutualaidworld.slack.com/team/U0109L8SYH3) 
-* [@Linc](https://mutualaidworld.slack.com/team/UVDGL2V97) 
-
 ### **Designers**
 
 * [@Courtney Beadel](https://mutualaidworld.slack.com)
 * [@Sarah Joo](https://mutualaidworld.slack.com)
 * [@Karen L](https://mutualaidworld.slack.com)
+
+### **Product Owners**
+
+* [@Miles](https://mutualaidworld.slack.com/team/U0109L8SYH3) 
+* [@Linc](https://mutualaidworld.slack.com/team/UVDGL2V97) 
 
 ### **Website**
 
