@@ -29,7 +29,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 * On top left, go to “Stories” tab and switch between **Dev Kanban** and **Story Refinement**
 * Under  Dev Kanban, you'll find a column called **Backlog**
 
-  \*Pick out a task from there, note if it’s for **skateboard**, **scooter**, or **bicycle**, assign it to yourself, and move the card to **In Progress** status  \(Huh? [Skateboard, Scooter, Bicycle](https://blog.crisp.se/wp-content/uploads/2016/01/Making-sense-of-MVP-.jpg)\)
+   Pick out a task from there, assign it to yourself, and move the card to **In Progress** status
 
 * Once the task is developed, create a Pull Request in GitHub, go back to the card in AirTable to add a link to the pull request, then slide that card over to **Code Review**
 
