@@ -2,7 +2,7 @@
 description: Getting started page for developers
 ---
 
-# Getting Started
+# Getting Started for Developers
 
 Remember, we’re just a group of people volunteering and self-organizing. Leave notes, ask questions, and know that any work at all is appreciated. :-\)
 

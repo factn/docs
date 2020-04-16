@@ -2,7 +2,7 @@
 description: Getting started page for Designers
 ---
 
-# Getting Started
+# Getting Started for Designers
 
 ### Get access to the right tools
 

@@ -2,22 +2,16 @@
 
 * [About MutualAid](README.md)
 * [Local Resilience App](local-resilience-app/README.md)
+  * [Getting Started for Designers](local-resilience-app/getting-started-for-designers/README.md)
+    * [Access](local-resilience-app/getting-started-for-designers/access.md)
+    * [Process](local-resilience-app/getting-started-for-designers/process.md)
+    * [Resources](local-resilience-app/getting-started-for-designers/resources.md)
+  * [Getting Started for Developers](local-resilience-app/getting-started-for-developers.md)
   * [Community Outreach](local-resilience-app/community-outreach.md)
 * [SafeTrace API](safetrace-api.md)
 * [Phone A Friend](phoneafriend.md)
 * [Data Science](data-science.md)
 * [Project Management](project-management.md)
-
-## Developers
-
-* [Getting Started](developers/getting-started.md)
-
-## Designers
-
-* [Getting Started](designers/getting-started/README.md)
-  * [Access](designers/getting-started/access.md)
-  * [Process](designers/getting-started/process.md)
-  * [Resources](designers/getting-started/resources.md)
 
 ## Resources
 
