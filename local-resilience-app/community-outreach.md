@@ -1,6 +1,6 @@
 # Community Outreach
 
-Connect with community organizers to learn how they engage with their communities, and discover how best to develop tech that immediately responds to their needs. We also aim to develop and launch solutions via rapid iteration building with known tech to solve the immediate needs of community groups. This team is small and cross-functional and works with core leadership to engage directly with community organizers in order to facilitate a rapid development path, so we can solve the most pressing problems as well as begin capturing user feedback now.
+**Goal:** Connect with community organizers to learn how they engage with their communities, and discover how best to develop tech that immediately responds to their needs. We also aim to develop and launch solutions via rapid iteration building with known tech to solve the immediate needs of community groups. This team is small and cross-functional and works with core leadership to engage directly with community organizers in order to facilitate a rapid development path, so we can solve the most pressing problems as well as begin capturing user feedback now.
 
 ### **Point people**
 
