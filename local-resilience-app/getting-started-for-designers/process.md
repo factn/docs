@@ -18,7 +18,7 @@ Pick out a task from there, note if it’s for MVP.0, MVP.1, etc. \(As of April 
 
 ![AirTable screenshot featuring Record and Release MVP.0](../../.gitbook/assets/image%20%289%29.png)
 
-**Drag** that story over to the **Design Underway** column**.**
+**Drag** that story over to the **Design Underway** column and add your name to the **Designer** field**.**
 
 ![AirTable screenshot of Lo-fi design please and Design underway swimlanes](../../.gitbook/assets/image%20%284%29.png)
 
