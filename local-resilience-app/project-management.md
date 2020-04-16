@@ -22,13 +22,13 @@ The work we have identified is grouped into releases, based on the complexity of
 
 The first three releases are based on the [Skateboard, Scooter, Bicycle](https://blog.crisp.se/wp-content/uploads/2016/01/Making-sense-of-MVP-.jpg) concept, meaning they are generally sequential; we need to build the skateboard and scooter before we can build the bicycle. We also have a “bucket” for future releases that acts as a sort of backlog.
 
-![](.gitbook/assets/0.png)
+![](../.gitbook/assets/0.png)
 
 **Story Refinement Board**
 
 The Story Refinement board is where the work begins. Raw ideas from project contributors and feedback from organizers are entered in the Uncategorized column, where it then gets prioritized, designed, and refined so that it can be developed into a feature.
 
-![](.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
 **Story Refinement Board - Index**
 
@@ -124,7 +124,7 @@ The Story Refinement board is where the work begins. Raw ideas from project cont
 
 The Dev Kanban board is where we track development work in progress, including review, QA testing, and merging into the GitHub repo.
 
-![](.gitbook/assets/2.png)
+![](../.gitbook/assets/2.png)
 
 **Dev Kanban Board - Index**
 

@@ -7,11 +7,11 @@
     * [Process](local-resilience-app/getting-started-for-designers/process.md)
     * [Resources](local-resilience-app/getting-started-for-designers/resources.md)
   * [Getting Started for Developers](local-resilience-app/getting-started-for-developers.md)
+  * [Project Management](local-resilience-app/project-management.md)
   * [Community Outreach](local-resilience-app/community-outreach.md)
 * [SafeTrace API](safetrace-api.md)
 * [Phone A Friend](phoneafriend.md)
 * [Data Science](data-science.md)
-* [Project Management](project-management.md)
 
 ## Resources
 
