@@ -8,6 +8,10 @@ We hope folks are staying safe and sane in the midst of this crisis. We’re so 
 
 ### How can you help?
 
+{% page-ref page="local-resilience-app/getting-started-for-designers/" %}
+
+{% page-ref page="local-resilience-app/getting-started-for-developers.md" %}
+
 ### Access
 
 {% page-ref page="local-resilience-app/project-management.md" %}
