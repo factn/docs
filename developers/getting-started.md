@@ -27,9 +27,9 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 **Grab a Task** in AirTable
 
 * On top left, go to “Stories” tab and switch between **Dev Kanban** and **Story Refinement**
-* Under  Dev Kanban, you'll find a column called **Backlog**
+* Under Dev Kanban, you'll find a column called **Backlog**
 
-   Pick out a task from there, assign it to yourself, and move the card to **In Progress** status
+  Pick out a task from there, assign it to yourself, and move the card to **In Progress** status
 
 * Once the task is developed, create a Pull Request in GitHub, go back to the card in AirTable to add a link to the pull request, then slide that card over to **Code Review**
 
@@ -39,6 +39,4 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
   * **\#resilience-app**
   * **\#resilience-design**
   * **\#project-management**
-
-
 
