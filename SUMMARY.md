@@ -13,7 +13,7 @@
   * [Project Management](local-resilience-app/project-management.md)
   * [Community Outreach](local-resilience-app/community-outreach.md)
 * [SafeTrace API](safetrace-api.md)
-* [Phone A Friend](phoneafriend.md)
+* [PhoneAFriend](phoneafriend.md)
 * [Data Science](data-science.md)
 
 ## Resources
