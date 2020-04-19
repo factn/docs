@@ -16,7 +16,7 @@ We hope folks are staying safe and sane in the midst of this crisis. We’re so 
 
 {% page-ref page="local-resilience-app/project-management.md" %}
 
-For access to **Figma** direct message [**@Courtney Beadel**](https://app.slack.com/team/U010H1FTE8Z) on [Slack](https://bit.ly/join_mutualaid_slack) with your email address. 
+For access to **Figma** direct message [**@Courtney Beadel**](https://app.slack.com/team/U010H1FTE8Z) on [Slack](https://rebrand.ly/mutualaid_slack) with your email address. 
 
 ### Other MutualAid open source projects that you can contribute to
 
