@@ -7,7 +7,7 @@
     * [Process and Workflow](local-resilience-app/getting-started-for-designers/process.md)
     * [Resources](local-resilience-app/getting-started-for-designers/resources/README.md)
       * [Design AirTable](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqEsBiGxnqy7H?blocks=hide)
-      * [Figma Designs](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/Resilience-App)
+      * [Figma Designs](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App)
       * [Design Assets](https://drive.google.com/drive/folders/1lGvwnPhB8_GT1y-4UqhetTwnW4O5U5OL)
   * [Getting Started for Developers](local-resilience-app/getting-started-for-developers.md)
   * [Project Management](local-resilience-app/project-management.md)

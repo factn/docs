@@ -13,10 +13,10 @@ Tasks are organized on [Airtable](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqE
 
 ### **Design Work**
 
-Work is done through [Figma](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/MutualAid.world-Designs-in-progress?node-id=1%3A2)
+Work is done through [Figma](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App)
 
 {% hint style="warning" %}
-Be sure to view the [Figma Onboarding Doc](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/Resilience-App?node-id=1257%3A553)
+Be sure to view the [Figma Onboarding Doc](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App?node-id=1257%3A553)
 {% endhint %}
 
 * Anyone can view.

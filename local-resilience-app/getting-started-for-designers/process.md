@@ -1,7 +1,7 @@
 # Process and Workflow
 
 {% hint style="danger" %}
-Wait! If you haven't yet, view the [Figma Onboarding Doc](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/Resilience-App?node-id=1257%3A553)!
+Wait! If you haven't yet, view the [Figma Onboarding Doc](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App?node-id=1257%3A553)!
 {% endhint %}
 
 ### **Grab a Task on** [**AirTable**](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqEsBiGxnqy7H?blocks=hide)\*\*\*\*
@@ -42,7 +42,7 @@ If there is nothing to do in the **Lo-Fi Design** column, look at the **Prioriti
 Make sure you are working in the correct iteration page on Figma.
 {% endhint %}
 
-It will be noted in the [Onboarding & Introductions](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/Resilience-App?node-id=1257%3A553) page.
+It will be noted in the [Onboarding & Introductions](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App?node-id=1257%3A553) page.
 
 **Note:** _Figma is our source of truth for design. We’re working collaboratively, all over the world and at different times and with different personal processes. If/when you edit a global style or component, take a look to see what else has changed and leave a note in Figma or in Slack to let the team know what’s shifted._ 
 
