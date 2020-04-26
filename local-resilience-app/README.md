@@ -6,7 +6,6 @@
 
 ### **Project / Scrum Masters**
 
-* [@Erika\_Margaret](https://mutualaidworld.slack.com/team/U010AHXUN72) 
 * [@Daniel Huerta](https://mutualaidworld.slack.com)
 
 ### **Developers**
