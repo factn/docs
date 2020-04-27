@@ -78,7 +78,7 @@ The Landing Page team's goal is to create a "public-facing" website for Resilien
 
 | Frequency | Time | Duration | Zoom Link |
 | :--- | :--- | :--- | :--- |
-| Daily | 5:30 PM EST | ~ 20 minutes | [https://us04web.zoom.us/j/815495144](https://us04web.zoom.us/j/815495144) |
+| Daily | 5:30 PM EST | ~ 20 minutes | [https://zoom.us/j/4766035670](https://zoom.us/j/4766035670) |
 
 ### **Website**
 
