@@ -31,14 +31,42 @@
 * [@Gareth Hayes](https://app.slack.com/team/U011J9S1VMX)
 * [@Alexandra](https://app.slack.com/team/U011BKP4NHM)
 
-### **Slack Channels**
+### **General Slack Channels**
 
 * [\#resilience-app](https://mutualaidworld.slack.com/archives/C010VC3EN2G)
 * [\#resilience-design](https://mutualaidworld.slack.com)
 * [\#resilience-visual](https://mutualaidworld.slack.com)
 * [\#resilience-newbackend](https://mutualaidworld.slack.com)
-* [\#landing-page](https://mutualaidworld.slack.com)
+* [\#team-landing-page](https://mutualaidworld.slack.com)
 * [\#resilience-uxresearch](https://mutualaidworld.slack.com)
+
+### Team Slack Channels
+
+Volunteers should feel free to Join any team that best fits their interests and efforts.
+
+#### Organizers Team
+
+The main goal of the organizer team is to provide a way for organizers to effectively connect available resources \(volunteers, food, funding\) with those in need \(mission requests\).
+
+* [\#resilience-team-organizers](https://mutualaidworld.slack.com)
+
+#### Payment Team
+
+The goal of the payment team is to provide a way to collect money donations from people/organizations for boxes, a way for recipients to buy boxes of request for a free box, and a way for admins to assign boxes to recipients
+
+* [\#resilience-team-payments](https://mutualaidworld.slack.com)
+
+#### Volunteers Team
+
+The goal of the volunteers team is the provide a way for volunteers to connect with available "Missions" that are near their location, and for volunteers to manage their active "Missions."
+
+* [\#resilience-team-volunteers](https://mutualaidworld.slack.com)
+
+#### Landing-Page Team
+
+The Landing Page team's goal is to create a "public-facing" website for Resilience \(and sibling projects\) to use for Recruiting volunteers to aid in the development of Resilience \(and sibling projects\). Creating an inviting, refined \(but not corporate\) online presence to entice various mutual aid organizations to use Resilience in order to expand their community outreach programs. Celebrating our project volunteers which in turn provides them a method of building clout in their respective occupational fields and demonstrating their expertise outside of the Resilience project. Showcasing case studies—providing "receipts"—of organizations who utilize Resilience which in turn will build project credibility.
+
+* [\#team-landing-page](https://mutualaidworld.slack.com)
 
 ### Standup Meetings
 
@@ -48,28 +76,11 @@
 * What do I plan on working on for the next 24 hours?
 * Any blockers?
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Frequency</th>
-      <th style="text-align:left">Time</th>
-      <th style="text-align:left">Duration</th>
-      <th style="text-align:left">Zoom Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Daily</td>
-      <td style="text-align:left">
-        <p>10:00 AM EST</p>
-        <p>5:30 PM EST</p>
-      </td>
-      <td style="text-align:left">~ 20 minutes</td>
-      <td style="text-align:left"><a href="https://us04web.zoom.us/j/815495144">https://us04web.zoom.us/j/815495144</a>
-      </td>
-    </tr>
-  </tbody>
-</table>### **Website**
+| Frequency | Time | Duration | Zoom Link |
+| :--- | :--- | :--- | :--- |
+| Daily | 5:30 PM EST | ~ 20 minutes | [https://us04web.zoom.us/j/815495144](https://us04web.zoom.us/j/815495144) |
+
+### **Website**
 
 {% embed url="https://mutualaid.world/" caption="" %}
 
