@@ -13,7 +13,6 @@
 * [@Tuan](https://mutualaidworld.slack.com/team/UVD8UBX0B) 
 * [@Azmain Amin](https://mutualaidworld.slack.com/team/U010CJL9F2T)
 * [@Paul Mendoza](https://app.slack.com/team/U011F9USMMF)
-* [@Terrence](https://app.slack.com/team/U010CLC1R6J)
 
 ### **Designers**
 
