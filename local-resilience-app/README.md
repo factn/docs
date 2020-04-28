@@ -64,7 +64,7 @@ The goal of the volunteers team is the provide a way for volunteers to connect w
 
 #### Landing-Page Team
 
-The Landing Page team's goal is to create a "public-facing" website for Resilience \(and sibling projects\) to use for Recruiting volunteers to aid in the development of Resilience \(and sibling projects\). Creating an inviting, refined \(but not corporate\) online presence to entice various mutual aid organizations to use Resilience in order to expand their community outreach programs. Celebrating our project volunteers which in turn provides them a method of building clout in their respective occupational fields and demonstrating their expertise outside of the Resilience project. Showcasing case studies—providing "receipts"—of organizations who utilize Resilience which in turn will build project credibility.
+The Landing Page team's goal is to create a "public-facing" website for Resilience \(and sibling projects\) to use for Recruiting volunteers and to aid in the development of Resilience \(and sibling projects\). Creating an inviting, refined \(but not corporate\) online presence to entice various mutual aid organizations to use Resilience in order to expand their community outreach programs. Celebrating our project volunteers which in turn provides them a method of building clout in their respective occupational fields and demonstrating their expertise outside of the Resilience project. Showcasing case studies—providing "receipts"—of organizations who utilize Resilience which in turn will build project credibility.
 
 * [\#team-landing-page](https://mutualaidworld.slack.com)
 
