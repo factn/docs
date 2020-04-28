@@ -22,7 +22,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
   **For new developer:**
 
-* Please checkout github issues and if you do not have access to assign yourself to it just yet, just write a comment in the github issue, and then contact @miles to get access.
+* Please checkout GitHub Issues and if you do not have access to assign yourself to it just yet, just write a comment in the GitHub Issues, and then contact @Miles to get access.
 * For new developers GitHub Issues would be a great place to get your feet wet.  Look for GitHub Issues that are labeled "good first issue".
 
 **Grab a Task** in AirTable
