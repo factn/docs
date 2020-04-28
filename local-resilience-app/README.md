@@ -46,7 +46,7 @@ Volunteers should feel free to Join any team that best fits their interests and 
 
 #### Organizers Team
 
-The main goal of the organizer team is to provide a way for organizers to effectively connect available resources \(volunteers, food, funding\) with those in need \(mission requests\).
+The main goal of the organizer team is to provide a way for organizers to effectively connect available resources \(volunteers, food, funding\) with those in need \("Mission" requests\).
 
 * [\#resilience-team-organizers](https://mutualaidworld.slack.com)
 
