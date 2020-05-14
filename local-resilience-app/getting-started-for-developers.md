@@ -10,7 +10,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 **Developer Tasks** are here: [Resilience App - AirTable](https://airtable.com/tblRjd2McKgRW9MKj/viwlRRNI0PZIxrGkc?blocks=hide)
 
-* Anyone can view. To pick up a task, get added as an editor by asking @Miles, @Terrance, @Daniel Huerta or @Tuan 
+* Anyone can view. To pick up a task, get added as an editor by asking @Miles, @Daniel Huerta or @Tuan 
 
 **Development Work** happens here: [Resilience App - GitHub](https://github.com/factn/resilience-app)
 
