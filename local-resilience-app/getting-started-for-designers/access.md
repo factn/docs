@@ -7,7 +7,6 @@ Tasks are organized on [Airtable](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqE
 * Anyone can view.
 * To pick up a task, get added as an editor by asking 
   * [@Miles](https://mutualaidworld.slack.com/team/U0109L8SYH3)
-  * [@Terrance](https://mutualaidworld.slack.com/team/U010CLC1R6J)
   * [@Tuan](https://mutualaidworld.slack.com/team/UVD8UBX0B)
 
 ### **Design Work**
