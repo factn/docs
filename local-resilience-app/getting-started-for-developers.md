@@ -56,5 +56,5 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
   * **\#resilience-app**
   * **\#resilience-dev**
   * **\#resilience-design**
-  * **\#project-management**
+  * **\#project-management-and-agile**
 
