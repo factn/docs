@@ -66,18 +66,6 @@ The Landing Page team's goal is to create a "public-facing" website for Resilien
 
 * [\#team-landing-page](https://mutualaidworld.slack.com)
 
-### Standup Meetings
-
-#### Updates
-
-* What have I been working on for the last 24 hours?
-* What do I plan on working on for the next 24 hours?
-* Any blockers?
-
-| Frequency | Time | Duration | Zoom Link |
-| :--- | :--- | :--- | :--- |
-| Daily | 5:30 PM EST | ~ 20 minutes | [https://zoom.us/j/4766035670](https://zoom.us/j/4766035670) |
-
 ### **Website**
 
 {% embed url="https://mutualaid.world/" caption="" %}
