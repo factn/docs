@@ -2,12 +2,15 @@
 
 ### **Design Issues**
 
-Tasks are organized on [Airtable](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqEsBiGxnqy7H?blocks=hide)
+**Designer tasks** are on the ****[**Design**](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?repos=248103592) ****workspace **- Zenhub**
 
-* Anyone can view.
-* To pick up a task, get added as an editor by asking 
-  * [@Miles](https://mutualaidworld.slack.com/team/U0109L8SYH3)
-  * [@Tuan](https://mutualaidworld.slack.com/team/UVD8UBX0B)
+* First, if you do not have a GitHub account already you will need to create one and join the Factn GitHub Repo.
+  * [https://github.com/factn/resilience-app](https://github.com/factn/resilience-app)
+* Second, you should add the Zenhub extension at  [www.zenhub.com/extension](http://www.zenhub.com/extension) \(After download Zenhub board will be present in Github navbar\) 
+
+![](../../.gitbook/assets/screen-shot-2020-05-20-at-12.58.31-pm.png)
+
+* or you can visit the webapp on zenhub.com.
 
 ### **Design Work**
 
