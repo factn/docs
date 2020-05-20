@@ -16,7 +16,6 @@
 
 ### **Designers**
 
-* [@Courtney Beadel](https://mutualaidworld.slack.com)
 * [@Sarah Joo](https://mutualaidworld.slack.com)
 * [@Karen L](https://mutualaidworld.slack.com)
 
@@ -27,8 +26,8 @@
 
 ### **Website**
 
-* [@Gareth Hayes](https://app.slack.com/team/U011J9S1VMX)
-* [@Alexandra](https://app.slack.com/team/U011BKP4NHM)
+* [@Courtney Beadel](https://mutualaidworld.slack.com)
+* [@Dana](https://mutualaidworld.slack.com)
 
 ### **General Slack Channels**
 
