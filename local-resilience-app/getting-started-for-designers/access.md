@@ -1,6 +1,6 @@
 # Accessing The Right Tools
 
-### **Design Tasks**
+### **Design Issues**
 
 Tasks are organized on [Airtable](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqEsBiGxnqy7H?blocks=hide)
 
