@@ -8,10 +8,6 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 ## First. You need access.
 
-**Developer Tasks** are here: [Resilience App - AirTable](https://airtable.com/tblRjd2McKgRW9MKj/viwlRRNI0PZIxrGkc?blocks=hide)
-
-* Anyone can view. To pick up a task, get added as an editor by asking @Miles, @Daniel Huerta or @Tuan 
-
 **Development Work** happens here: [Resilience App - GitHub](https://github.com/factn/resilience-app)
 
 * Read through the documentation in the homepage README and [CONTRIBUTING](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md) to learn how to work with us
@@ -23,16 +19,36 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
   **For new developer:**
 
 * Please checkout GitHub Issues and if you do not have access to assign yourself to it just yet, just write a comment in the GitHub Issues, and then contact @Miles to get access.
-* For new developers GitHub Issues would be a great place to get your feet wet.  Look for GitHub Issues that are labeled "good first issue".
+* For new developers GitHub Issues would be a great place to get your feet wet.  Look for GitHub Issues that are labeled "**good first issue**".
 
-**Grab a Task** in AirTable
+**Developer Issues** are on the ****[**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) ****workspace **- Zenhub**
 
-* On top left, go to “Stories” tab and switch between **Dev Kanban** and **Story Refinement**
-* Under Dev Kanban, you'll find a column called **Backlog**
+* First, you should add the Zenhub extension at [www.zenhub.com/extension](http://www.zenhub.com/extension) \(After download Zenhub board will be present in Factn repo tabs\) 
 
-  Pick out a task from there, assign it to yourself, and move the card to **In Progress** status
+![Zenhub extension is right next to Pull Requests](../.gitbook/assets/screen-shot-2020-05-20-at-12.58.31-pm.png)
 
-* Once the task is developed, create a Pull Request in GitHub, go back to the card in AirTable to add a link to the pull request, then slide that card over to **Code Review**
+* or you can visit the webapp on zenhub.com.
+  * Everyone on the Factn GitHub account has “read only” access to the Zenhub board.
+  * In order to gain the permissions necessary to modify the board you need to be a consistent contributor.
+
+**Grabbing a Task** from **Development** workspace.
+
+* Developers will find the issues that are available for pick-up in the **Backlog** column. 
+
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.22.20-pm.png) 
+
+* When a developer finds an issue they want to work on they should let @Daniel Huerta, @Josh, @Tuan, @Paul, or @Miles know so you can be assigned to the issue and the issue will then be moved over to the **In Progress** column.
+
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.23.43-pm.png) 
+
+* To notify the people above you should tag them in a comment one the issue you want to be assigned to \(Interacting with the pull requests and issues will enable you to be assigned\).
+  * GitHub handles: @DAHuerta \(Daniel\), @jwu910 \(Josh\), @mat10tng \(Tuan\), @qdozaq \(Paul\), and @utunga \(Miles\).
+* For new developers Zenhub issues labeled with "**good first issue**" would be a great place to start.
+* Once the dev has completed the assigned issue they should let @Daniel Huerta, @Josh, @Tuan, @Paul, or @Miles know so that the assigned issue can be moved over to the **Review** column.
+
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.40.34-pm.png) 
+
+* We understand that this is a volunteer project and life will sometimes interfere with your schedule.  If for any reason you have to leave the project in the middle of an issue please be courteous to others working on the project let them know via Slack or a comment on the issue.
 
 **Questions** about work
 
