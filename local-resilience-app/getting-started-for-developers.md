@@ -12,7 +12,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 * Read through the documentation in the homepage README and [CONTRIBUTING](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md) to learn how to work with us
 
-  \*Check out the working [demo](https://mutualaidworld-frontend.herokuapp.com/) of the app
+  \*Check out the working [demo](https://mutualaid-757f6.web.app/) of the app
 
   **Second. Check out the process.**
 
