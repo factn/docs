@@ -38,6 +38,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 * Post questions in Slack! You have great resources in the following channels:
   * **\#resilience-app**
+  * **\#resilience-dev**
   * **\#resilience-design**
   * **\#project-management**
 
