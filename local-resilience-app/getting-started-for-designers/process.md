@@ -4,37 +4,23 @@
 Wait! If you haven't yet, view the [Figma Onboarding Doc](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App?node-id=1257%3A553)!
 {% endhint %}
 
-### **Grab a Task on** [**AirTable**](https://airtable.com/tblRjd2McKgRW9MKj/viwAsqEsBiGxnqy7H?blocks=hide)\*\*\*\*
+### **Grab a Task** on **ZenHub**
 
-Make sure you're on the **Stories** and **Design** view
+* **Designers** will find issues that are available for pick-up in the **Ready to Start Design** column. 
 
-![AirTable screenshot of tabs](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/screen-shot-2020-05-20-at-2.28.03-pm.png) 
 
-Under **Design,** you’ll find a column called **Lo-Fi Design Please.**
+* When a designer finds an issue that they want to work on they should let @Daniel Huerta, @josh, @Karen Lo, and @Miles know so they can be assigned to the issue and the issue will then be moved to the **In Progress** column.
 
-![AirTable screenshot of Lo-fi design please swimlane](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/screen-shot-2020-05-20-at-2.34.59-pm.png) 
 
-Pick out a task from there, note if it’s for MVP.0, MVP.1, etc. \(As of April 15, 2020, we are working on releasing MVP.0\).
+* To notify the people above you should tag them in a comment one the issue you want to be assigned to \(Interacting with the pull requests and issues will enable you to be assigned\).
+  * GitHub handles: @DAHuerta \(Daniel\), @jwu910 \(Josh\), @karenkun \(Karen\), and @utunga \(Miles\).
+* Once the designer has completed the assigned issue they should let @Daniel Huerta, @Josh, @Karen Lo, or @Miles know so that the assigned issue can be moved over to the **Review/QA** column.
 
-![AirTable screenshot featuring Record and Release MVP.0](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/screen-shot-2020-05-20-at-2.36.25-pm.png) 
 
-**Drag** that story over to the **Design Underway** column and add your name to the **Designer** field**.**
-
-![AirTable screenshot of Lo-fi design please and Design underway swimlanes](../../.gitbook/assets/image%20%284%29.png)
-
-
-
-Once the task is designed in Figma, go back to AirTable and slide that block over to the **Lo-Fi Design Ready** column and make sure to link the frame in Figma in the notes section of the AirTable user story card.
-
-![AirTable screenshot of Design underway and Lo fi design ready swimlanes](../../.gitbook/assets/image%20%287%29.png)
-
-In the [\#resilience-app](https://mutualaidworld.slack.com/archives/C010VC3EN2G) Slack channel, let everyone know you have finished the design for ‘X’ card,  include a link to the AirTable user story card and the Figma link \(and prototype link if available\).
-
-![Slack screenshot of example design done slack message](../../.gitbook/assets/image%20%286%29.png)
-
-If there is nothing to do in the **Lo-Fi Design** column, look at the **Prioritization** column and **Hi-fi Design Please** column.
-
-![AirTable screenshot of Hi fi design please swimlane](../../.gitbook/assets/image%20%282%29.png)
+* We understand that this is a volunteer project and life will sometimes interfere with your schedule.  If for any reason you have to leave the project in the middle of an issue please be courteous to others working on the project let them know via Slack or a comment on the issue.
 
 ### **Do the work in Figma**
 
