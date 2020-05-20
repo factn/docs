@@ -35,7 +35,6 @@
 * [\#resilience-dev](https://mutualaidworld.slack.com)
 * [\#resilience-design](https://mutualaidworld.slack.com)
 * [\#resilience-visual](https://mutualaidworld.slack.com)
-* [\#resilience-newbackend](https://mutualaidworld.slack.com)
 * [\#team-landing-page](https://mutualaidworld.slack.com)
 * [\#resilience-uxresearch](https://mutualaidworld.slack.com)
 
