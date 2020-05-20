@@ -32,6 +32,7 @@
 ### **General Slack Channels**
 
 * [\#resilience-app](https://mutualaidworld.slack.com/archives/C010VC3EN2G)
+* [\#resilience-dev](https://mutualaidworld.slack.com)
 * [\#resilience-design](https://mutualaidworld.slack.com)
 * [\#resilience-visual](https://mutualaidworld.slack.com)
 * [\#resilience-newbackend](https://mutualaidworld.slack.com)
