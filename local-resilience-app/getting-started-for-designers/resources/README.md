@@ -4,19 +4,19 @@ description: Design resources
 
 # Resources
 
-### Figma
+## Figma
 
 Platform for all design plans and work
 
-### Shared Google Drive
+## Shared Google Drive
 
 Storing and sharing design assets outside of Figma
 
-### Zenhub
+## Zenhub
 
 Platform for organizing work in a kanban board
 
-### Design Slack Channels
+## Design Slack Channels
 
 * [\#resilience-design](https://mutualaidworld.slack.com/archives/C010PH9MAFL)
 * [\#resilience-uxresearch](https://mutualaidworld.slack.com/archives/C011HHF5UQM)

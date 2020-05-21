@@ -21,7 +21,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 * Please checkout GitHub Issues and if you do not have access to assign yourself to it just yet, just write a comment in the GitHub Issues, and then contact @Miles to get access.
 * For new developers GitHub Issues would be a great place to get your feet wet.  Look for GitHub Issues that are labeled "**good first issue**".
 
-**Developer Issues** are on the ****[**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) ****workspace **- Zenhub**
+**Developer Issues** are on the **\*\*\[**Development**\]\(**[https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592)**\) \*\***workspace **- Zenhub**
 
 * First, you should add the Zenhub extension at [www.zenhub.com/extension](http://www.zenhub.com/extension) \(After download Zenhub board will be present in Factn repo tabs\) 
 
@@ -35,18 +35,18 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 * Developers will find the issues that are available for pick-up in the **Backlog** column. 
 
-![](../.gitbook/assets/screen-shot-2020-05-20-at-1.22.20-pm.png) 
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.22.20-pm.png)
 
 * When a developer finds an issue they want to work on they should let @Daniel Huerta, @Josh, @Tuan, @Paul, or @Miles know so you can be assigned to the issue and the issue will then be moved over to the **In Progress** column.
 
-![](../.gitbook/assets/screen-shot-2020-05-20-at-1.23.43-pm.png) 
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.23.43-pm.png)
 
 * To notify the people above you should tag them in a comment one the issue you want to be assigned to \(Interacting with the pull requests and issues will enable you to be assigned\).
   * GitHub handles: @DAHuerta \(Daniel\), @jwu910 \(Josh\), @mat10tng \(Tuan\), @qdozaq \(Paul\), and @utunga \(Miles\).
 * For new developers Zenhub issues labeled with "**good first issue**" would be a great place to start.
 * Once the dev has completed the assigned issue they should let @Daniel Huerta, @Josh, @Tuan, @Paul, or @Miles know so that the assigned issue can be moved over to the **Review** column.
 
-![](../.gitbook/assets/screen-shot-2020-05-20-at-1.40.34-pm.png) 
+![](../.gitbook/assets/screen-shot-2020-05-20-at-1.40.34-pm.png)
 
 * We understand that this is a volunteer project and life will sometimes interfere with your schedule.  If for any reason you have to leave the project in the middle of an issue please be courteous to others working on the project let them know via Slack or a comment on the issue.
 
