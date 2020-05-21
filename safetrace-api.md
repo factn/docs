@@ -4,7 +4,7 @@
 
 ### **Point People**
 
-* \*\*\*\*[@Andres Gomez](https://mutualaidworld.slack.com/team/U01001CB3CJ)
+* [@Andres Gomez](https://mutualaidworld.slack.com/team/U01001CB3CJ)
 * [@Ari Rodriguez](https://mutualaidworld.slack.com/team/U010FJZCM46)
 
 ### **Channels**
