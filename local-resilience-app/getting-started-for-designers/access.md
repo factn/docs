@@ -2,17 +2,19 @@
 
 ### **Design Issues**
 
-**Designer tasks** are on the ****[**Design**](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?repos=248103592) ****workspace **- Zenhub**
+**Designer tasks** are on the ****[**Design**](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?repos=248103592) ****workspace **-** [Zenhub](https://zenhub.com)
 
-* First, if you do not have a GitHub account already you will need to create one and join the Factn GitHub Repo.
-  * [https://github.com/factn/resilience-app](https://github.com/factn/resilience-app)
-* Second, you should add the Zenhub extension at  [www.zenhub.com/extension](http://www.zenhub.com/extension) \(After download Zenhub board will be present in Github navbar\) 
+1. Create a [GitHub account](https://github.com/join) if you do not already have one.
+2. Bookmark the workspace for the [ZenHub Webapp](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?labels=design&repos=248103592)
+3. Install the [ZenHub extension](https://zenhub.com/extension) and see it on GitHub
 
 ![Zenhub Extension is right next to Pull Requests](../../.gitbook/assets/screen-shot-2020-05-20-at-12.58.31-pm.png)
 
-* or you can visit the webapp on zenhub.com.
-  * Everyone on the Factn GitHub Repo account has “read only” access to the Zenhub board.
-  * In order to gain the permissions necessary to modify the board you need to be a consistent contributor.
+ZenHub boards are read-only. For write access, inquire on [Slack](https://mutualaidworld.slack.com/archives/C010VC3EN2G)
+
+{% hint style="info" %}
+We are working with the "Design" workspace with the label filter "design" applied
+{% endhint %}
 
 ### **Design Work**
 
