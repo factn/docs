@@ -4,7 +4,7 @@
 
 ### **Point People**
 
-* \*\*\*\*[@Dean Thomas](https://mutualaidworld.slack.com/team/U010CE8MM2Q)
+* [@Dean Thoms](https://mutualaidworld.slack.com/team/U010CE8MM2Q)
 
 ### **Channels**
 
