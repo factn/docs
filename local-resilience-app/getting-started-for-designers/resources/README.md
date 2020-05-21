@@ -12,7 +12,7 @@ Platform for all design plans and work
 
 Storing and sharing design assets outside of Figma
 
-### AirTable
+### Zenhub
 
 Platform for organizing work in a kanban board
 
