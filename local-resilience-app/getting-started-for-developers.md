@@ -21,15 +21,15 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 * Please checkout GitHub Issues and if you do not have access to assign yourself to it just yet, just write a comment in the GitHub Issues, and then contact @Miles to get access.
 * For new developers GitHub Issues would be a great place to get your feet wet.  Look for GitHub Issues that are labeled "**good first issue**".
 
-**Developer Issues** are on the **\*\*\[**Development**\]\(**[https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592)**\) \*\***workspace **- Zenhub**
+**Developer Issues** are on the [**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) workspace **- Zenhub**
 
-* First, you should add the Zenhub extension at [www.zenhub.com/extension](http://www.zenhub.com/extension) \(After download Zenhub board will be present in Factn repo tabs\) 
+* **Designer tasks** are on the ****[**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) ****workspace **-** [Zenhub](https://zenhub.com)
+  1. Bookmark the workspace for the [ZenHub Webapp](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?labels=design&repos=248103592)
+  2. Install the [ZenHub extension](https://zenhub.com/extension) and see it on GitHub
 
-![Zenhub extension is right next to Pull Requests](../.gitbook/assets/screen-shot-2020-05-20-at-12.58.31-pm.png)
+![Zenhub Extension is right next to Pull Requests](../.gitbook/assets/screen-shot-2020-05-20-at-12.58.31-pm.png)
 
-* or you can visit the webapp on zenhub.com.
-  * Everyone on the Factn GitHub account has “read only” access to the Zenhub board.
-  * In order to gain the permissions necessary to modify the board you need to be a consistent contributor.
+ZenHub boards are read-only. For write access, inquire on [Slack](https://mutualaidworld.slack.com/archives/C010VC3EN2G)
 
 **Grabbing a Task** from **Development** workspace.
 
