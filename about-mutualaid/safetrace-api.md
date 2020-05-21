@@ -4,8 +4,9 @@ SafeTraceAPI is about privacy-enabled contact tracing. We’re trying to build a
 
 ### **Point People**
 
-* \*\*\*\*[@Andres Gomez](https://mutualaidworld.slack.com/team/U01001CB3CJ)
+* [@Andres Gomez](https://mutualaidworld.slack.com/team/U01001CB3CJ)
 * [@Ari Rodriguez](https://mutualaidworld.slack.com/team/U010FJZCM46)
+* [@Jack Hester](https://mutualaidworld.slack.com/team/U010DDQ4BBP)
 
 ### **Channels**
 
@@ -13,5 +14,6 @@ SafeTraceAPI is about privacy-enabled contact tracing. We’re trying to build a
 
 ###  **Website**
 
+[SafeTraceAPI.org](https://safetraceapi.org)
 
 
