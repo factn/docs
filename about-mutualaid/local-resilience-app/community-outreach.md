@@ -11,6 +11,6 @@ Connect with community organizers to learn how they engage with their communitie
 
 ### **Channels**
 
-* \*\*\*\*[\#community\_users](https://mutualaidworld.slack.com/archives/C010E49AMTQ)
+* [\#resilience-outreach](https://mutualaidworld.slack.com/archives/C011FNU7TPG)
 * [\#mutual-aid-world](https://mutualaidworld.slack.com/archives/C010956QQJY)
 
