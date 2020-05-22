@@ -23,7 +23,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 **Developer Issues** are on the [**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) workspace **- Zenhub**
 
-* **Designer tasks** are on the ****[**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) ****workspace **-** [Zenhub](https://zenhub.com)
+* **Developer tasks** are on the ****[**Development**](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592) ****workspace **-** [Zenhub](https://zenhub.com)
   1. Bookmark the workspace for the [ZenHub Webapp](https://app.zenhub.com/workspaces/design-5ebdb8fd2546980a59dc9577/board?labels=design&repos=248103592)
   2. Install the [ZenHub extension](https://zenhub.com/extension) and see it on GitHub
 
