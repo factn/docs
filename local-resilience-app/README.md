@@ -38,34 +38,6 @@
 * [\#team-landing-page](https://mutualaidworld.slack.com)
 * [\#resilience-uxresearch](https://mutualaidworld.slack.com)
 
-### Team Slack Channels
-
-Volunteers should feel free to Join any team that best fits their interests and efforts.
-
-#### Organizers Team
-
-The main goal of the organizer team is to provide a way for organizers to effectively connect available resources \(volunteers, food, funding\) with those in need \("Mission" requests\).
-
-* [\#resilience-team-organizers](https://mutualaidworld.slack.com)
-
-#### Payment Team
-
-The goal of the payment team is to provide a way to collect money donations from people/organizations for boxes, a way for recipients to buy boxes of request for a free box, and a way for admins to assign boxes to recipients
-
-* [\#resilience-team-payments](https://mutualaidworld.slack.com)
-
-#### Volunteers Team
-
-The goal of the volunteers team is the provide a way for volunteers to connect with available "Missions" that are near their location, and for volunteers to manage their active "Missions."
-
-* [\#resilience-team-volunteers](https://mutualaidworld.slack.com)
-
-#### Landing-Page Team
-
-The Landing Page team's goal is to create a "public-facing" website for Resilience \(and sibling projects\) to use for Recruiting volunteers and to aid in the development of Resilience \(and sibling projects\). Creating an inviting, refined \(but not corporate\) online presence to entice various mutual aid organizations to use Resilience in order to expand their community outreach programs. Celebrating our project volunteers which in turn provides them a method of building clout in their respective occupational fields and demonstrating their expertise outside of the Resilience project. Showcasing case studies—providing "receipts"—of organizations who utilize Resilience which in turn will build project credibility.
-
-* [\#team-landing-page](https://mutualaidworld.slack.com)
-
 ### **Website**
 
 {% embed url="https://mutualaid.world/" caption="" %}
