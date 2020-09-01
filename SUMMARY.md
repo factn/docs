@@ -9,10 +9,6 @@
       * [Figma Designs](https://www.figma.com/file/GLg0zPNnwMEGIb9TytCrxQ/Resilience-App)
       * [Design Assets](https://drive.google.com/drive/folders/1lGvwnPhB8_GT1y-4UqhetTwnW4O5U5OL)
   * [Getting Started for Developers](local-resilience-app/getting-started-for-developers.md)
-  * [Community Outreach](local-resilience-app/community-outreach.md)
-* [SafeTrace API](safetrace-api.md)
-* [PhoneAFriend](phoneafriend.md)
-* [Data Science](data-science.md)
 
 ## Resources
 
