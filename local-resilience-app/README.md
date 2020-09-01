@@ -16,6 +16,7 @@
 ### **Designers**
 
 * [@Courtney Beadel](https://mutualaidworld.slack.com)
+* [@Eriol Fox](https://mutualaidworld.slack.com)
 
 ### **Product Owners**
 
