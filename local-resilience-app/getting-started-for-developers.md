@@ -56,5 +56,4 @@ ZenHub boards are read-only. For write access, inquire on [Slack](https://mutual
   * **\#resilience-app**
   * **\#resilience-dev**
   * **\#resilience-design**
-  * **\#project-management-and-agile**
 
