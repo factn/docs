@@ -10,19 +10,16 @@
 
 ### **Developers**
 
-* [@Tuan](https://mutualaidworld.slack.com/team/UVD8UBX0B) 
-* [@Azmain Amin](https://mutualaidworld.slack.com/team/U010CJL9F2T)
-* [@Paul Mendoza](https://app.slack.com/team/U011F9USMMF)
+* [@Josh](https://mutualaidworld.slack.com)
+* [@Jacob Garlick](https://mutualaidworld.slack.com)
 
 ### **Designers**
 
-* [@Sarah Joo](https://mutualaidworld.slack.com)
-* [@Karen L](https://mutualaidworld.slack.com)
+* [@Courtney Beadel](https://mutualaidworld.slack.com)
 
 ### **Product Owners**
 
 * [@Miles](https://mutualaidworld.slack.com/team/U0109L8SYH3) 
-* [@Linc](https://mutualaidworld.slack.com/team/UVDGL2V97) 
 
 ### **Website**
 
@@ -34,9 +31,7 @@
 * [\#resilience-app](https://mutualaidworld.slack.com/archives/C010VC3EN2G)
 * [\#resilience-dev](https://mutualaidworld.slack.com)
 * [\#resilience-design](https://mutualaidworld.slack.com)
-* [\#resilience-visual](https://mutualaidworld.slack.com)
 * [\#team-landing-page](https://mutualaidworld.slack.com)
-* [\#resilience-uxresearch](https://mutualaidworld.slack.com)
 
 ### **Website**
 
