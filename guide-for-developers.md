@@ -4,15 +4,15 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 
 ## First. You need access.
 
-**Developer Tasks** are here: [Resilience App - AirTable](https://airtable.com/tblRjd2McKgRW9MKj/viwlRRNI0PZIxrGkc?blocks=hide)
+**Developer Tasks** are here: [Resilience App - Zenhub](https://app.zenhub.com/workspaces/development-5ebdc0f6f820682b5eeccf1f/board?repos=248103592)
 
-* Anyone can view. To pick up a task, get added as an editor by asking @beth, @Erika\_Margaret, @Miles, @Terrance @Joshkurzich or @Tuan 
+* Anyone can view. To pick up a task, get added as an editor by asking @Miles or @Joshkurzich 
 
 **Development Work** happens here: [Resilience App - GitHub](https://github.com/factn/resilience-app)
 
 * Read through the documentation in the homepage README and [CONTRIBUTING](https://github.com/factn/resilience-app/blob/master/CONTRIBUTING.md) to learn how to work with us
 
-  \*Check out the working [demo](https://mutualaidworld-frontend.herokuapp.com/) of the app
+  \*Check out the working [demo](https://mutualaid-757f6.web.app) of the app
 
   **Second. Check out the process.**
 
