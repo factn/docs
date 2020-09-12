@@ -6,7 +6,7 @@ Remember, we’re just a group of people volunteering and self-organizing. Leave
 * Anyone can view. To pick up a task, get added as an editor by asking @beth, @Erika_Margaret, @Miles, @Terrance or @Tuan
 
 <b>Design Work</b> happens here: [MutualAid.World - Figma](https://www.figma.com/file/v5HdxDsvO2NzMuZU6CArzF/MutualAid.world-Designs-in-progress?node-id=1%3A2)
-* Anyone can view. To work on a task, get added as an editor by asking anyone who currently has access, or more specifically, @beth or @Nena.
+* Anyone can view. To work on a task, get added as an editor by asking anyone who currently has access, or more specifically, @Eriol or @CourtneyBeadel.
 * As of March 19th, Nena secured us unlimited seats with Figma for 6 months!
 
 # Second. Check out the process.
